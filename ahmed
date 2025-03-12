@@ -1,5 +1,4 @@
 from gpiozero import LED, Button
-from utime import sleep
 
 print("Hello, Pi Pico!")
 
